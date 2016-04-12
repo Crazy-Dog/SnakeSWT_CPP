@@ -1,3 +1,4 @@
-# UUID        	Group Name
+# UUID                 	Group Name
 #
-user:Crazy-Dog	user/Crazy-Dog
+global:Registered-Users	Registered Users
+user:Crazy-Dog         	user/Crazy-Dog
