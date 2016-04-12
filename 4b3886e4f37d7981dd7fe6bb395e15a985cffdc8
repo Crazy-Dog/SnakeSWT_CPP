@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_c61a8f17",
+        "filename": "Game.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1007626
+      },
+      "writtenOn": "2016-04-12T15:25:00Z",
+      "side": 1,
+      "message": "remove blank string",
+      "revId": "4b3886e4f37d7981dd7fe6bb395e15a985cffdc8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_0696374c",
+        "filename": "Snake.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 1007626
+      },
+      "writtenOn": "2016-04-12T15:25:00Z",
+      "side": 1,
+      "message": "remove blank string",
+      "revId": "4b3886e4f37d7981dd7fe6bb395e15a985cffdc8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
