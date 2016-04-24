@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_2790e742",
+        "filename": "Game.java",
+        "patchSetId": 7
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1007635
+      },
+      "writtenOn": "2016-04-24T17:57:36Z",
+      "side": 1,
+      "message": "this is not very good to use.",
+      "range": {
+        "startLine": 21,
+        "startChar": 3,
+        "endLine": 21,
+        "endChar": 19
+      },
+      "revId": "faa0cd68224063d94ec03ff6fc4f423d69825c18",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
