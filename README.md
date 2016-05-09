@@ -1,1 +1,0 @@
-# SnakeSWT_CPP
